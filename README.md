@@ -1,1 +1,2 @@
-# PRODIGY_WD_02
+This is a stopwatch web application made using HTML, CSS, and JavaScript. It incorporates various functions, including starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times. Additionally, it boasts user-friendly features, making it easy for users to interact.
+![image](https://github.com/anjali80/PRODIGY_WD_02/assets/123894313/96a36d96-e54c-4a9b-8306-63d9e2ea0ce0)
